@@ -1,2 +1,2 @@
 # resume
-Personal Resume
+My Personal Resume
