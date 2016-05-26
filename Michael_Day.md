@@ -1,5 +1,6 @@
 # Michael Day
-<a href="mailto:&#109;&#100;&#64;&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#100;&#97;&#121;&#114;&#101;&#97;&#100;&#115;&#46;&#99;&#111;&#109;">&#109;&#100;&#64;&#109;&#105;&#99;&#104;&#97;&#101;&#108;&#100;&#97;&#121;&#114;&#101;&#97;&#100;&#115;&#46;&#99;&#111;&#109;</a>
+
+<a href="mailto:&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#100;&#097;&#121;&#114;&#101;&#097;&#100;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#109;&#105;&#099;&#104;&#097;&#101;&#108;&#100;&#097;&#121;&#114;&#101;&#097;&#100;&#115;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
 
 ## Summary
 My first program (in BASIC, age 12) was a “security system” written on a Commodore 128 with a gutted Atari 2600 controller and Radio Shack wire monitoring the opening of my bedroom door, windows, closet and drawers. Since finding my way back to technology a few years ago I've grown from tech support, to sales engineering, and then to small full stack projects, using my non tech experience to keep me connected to user's needs.
@@ -11,12 +12,16 @@ My first program (in BASIC, age 12) was a “security system” written on a Com
 - Implemented first SAML 2.0 SSO integration in application for 30,000 user base client.
 
 ## Technologies  
-- Python, PHP, MySQL, Bash, HTML, Javascript/jQuery, CSS, RESTful / SOAP API (Proficient)
-- Cassandra, MongoDB, C and Zend Framework(Familiar)  
+- Ruby, Rails, Python, PHP, MySQL, Bash, RESTful / SOAP API, Javascript/jQuery, CSS, & HTML (Proficient)
+- Cassandra, MongoDB, C, Flask Framework, Zend Framework (Familiar)  
 
-## Professional Experience  
+## Professional Experience
+### Recurly
+March 2016 to Present: **Solutions Engineer**
+Solutions Engineering researches support and key account inquires, escalating issues to DevOps, changing code in the core application when applicable, coordinating with other core development product managers and teams as needed. Data imports, Ruby/Rails and MySQL scripts for import, export or to correct data is also common, as is acting an an engineering resource for Recurly's client developers seeking assistance with our many API libraries. 
+
 ### SurveyGizmo  
-April 2015 to Present: **Web Developer**  
+April 2015 to February 2016: **Web Developer**  
 The web marketing team maintains a highly modified WordPress install on multiple properties and runs regular experiments to improve engagement and conversion. Some projects integrate tightly with our application providing opportunities to work in that code base. We are a LAMP (PHP) shop. 
 
 August 2013 to April 2015: **Professional Services Engineer / Sales Engineer**  
