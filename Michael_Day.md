@@ -5,19 +5,19 @@
 ## Summary
 My first program (in BASIC, age 12) was a “security system” written on a Commodore 128 with a gutted Atari 2600 controller and Radio Shack wire monitoring the opening of my bedroom door, windows, closet and drawers. Since finding my way back to technology a few years ago I've grown from tech support, to sales engineering, and then to small full stack projects, using my non tech experience to keep me connected to user's needs.
 
-## Technical Projects (at SurveyGizmo)  
+## Technical Projects  
 - Extended REST API to improve scalable onboarding of Enterprise Accounts
 - Added optional PDF encryption to core application form email actions
 - Extended application scripting language to fascilitate advanced counterbalancing
-- Implemented first SAML 2.0 SSO integration in application for 30,000 user base client.
+- Implemented first SAML 2.0 SSO integration in application for 30,000 user base client  
 
 ## Technologies  
-- Ruby, Rails, Python, PHP, MySQL, Bash, RESTful / SOAP API, Javascript/jQuery, CSS, & HTML (Proficient)
+- Ruby, Rails, Python, PHP, MySQL, Bash, RESTful / SOAP API, Javascript/jQuery, CSS, & HTML (Proficient)  
 - Cassandra, MongoDB, C, Flask Framework, Zend Framework (Familiar)  
 
 ## Professional Experience
 ### Recurly
-March 2016 to Present: **Solutions Engineer**
+March 2016 to Present: **Solutions Engineer**  
 Solutions Engineering researches support and key account inquires, escalating issues to DevOps, changing code in the core application when applicable, coordinating with other core development product managers and teams as needed. Data imports, Ruby/Rails and MySQL scripts for import, export or to correct data is also common, as is acting an an engineering resource for Recurly's client developers seeking assistance with our many API libraries. 
 
 ### SurveyGizmo  
