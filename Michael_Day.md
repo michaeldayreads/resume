@@ -5,14 +5,14 @@
 ## Summary
 My first program (in BASIC, age 12) was a “security system” written on a Commodore 128 with a gutted Atari 2600 controller and Radio Shack wire monitoring the opening of my bedroom door, windows, closet and drawers. Since finding my way back to technology a few years ago I've grown from tech support, to sales engineering, and then to small full stack projects, using my non tech experience to keep me connected to user's needs.
 
-## Technical Projects  
-- Extended REST API to improve scalable onboarding of Enterprise Accounts
+## Technical Projects (at SurveyGizmo)  
+- Extended REST API to improve scalable on-boarding of Enterprise Accounts
 - Added optional PDF encryption to core application form email actions
-- Extended application scripting language to fascilitate advanced counterbalancing
-- Implemented first SAML 2.0 SSO integration in application for 30,000 user base client  
+- Extended application scripting language to facilitate advanced counterbalancing
+- Implemented first SAML 2.0 SSO integration in application for 30,000 user base client.
 
 ## Technologies  
-- Ruby, Rails, Python, PHP, MySQL, Bash, RESTful / SOAP API, Javascript/jQuery, CSS, & HTML (Proficient)  
+- Ruby, Rails, Python, PHP, MySQL, Bash, RESTful / SOAP API, Javascript/jQuery, CSS, & HTML (Proficient)
 - Cassandra, MongoDB, C, Flask Framework, Zend Framework (Familiar)  
 
 ## Professional Experience
@@ -46,4 +46,4 @@ Attracted new accounts and worked with active accounts to increase revenue, and 
 - 2002 University of Colorado B.A., Philosophy & Psychology Majors, Phi Beta Kappa
 
 _Away from the keyboard  
-Books are everywhere. I hike a lot with my Shepherd/Husky mix, tinker with and ride my motorcycle and  bicycles, and practice Shotokan Karate._
+Books are everywhere. I hike a lot with my Shepherd/Husky mix, tinker with and ride my motorcycle and bicycles, and generally try to spend time outdoors._
