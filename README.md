@@ -4,16 +4,16 @@
 
 ## Summary & Objective
 
-My first program (basic, age 12) was a ‘security system’ written on a Commodore 128 with a gutted Atari 2600 controller that monitored the doors, drawers and windows in my bedroom. When I returned to technology years later I started in tech support and have been growing my skill set since. Having built foundational skills in networking and infrastructure, backend engineering, automation, and automated testing my objective now is to apply those skills to a security specific engineering opportunity. Long term objective is to refine and apply that skill set as an engineering IC and researcher.
+My first program (BASIC, age 12) was a ‘security system’ written on a Commodore 128 with a gutted Atari 2600 controller that monitored the doors, drawers and windows in my bedroom. When I returned to technology years later I started in tech support and have been growing my skill set since. Having built foundational skills in networking and infrastructure, backend engineering, automation, and automated testing my objective now is to apply those skills to a security specific engineering opportunity. Long term objective is to refine and apply that skill set as an engineering IC and researcher.
 
 
 ## Technical Projects
 
 • Python based API tests for nginx controller (cloud agnostic nginx orchestration) and supporting CI / CD  
-• Golang/Bash integration tests for HTTPS configurable microservices  
-• Python/Pytest integration testing module for cloud agnostic Autoscale backends  
+• Golang/Bash integration tests for HTTPS configurable micro-services  
+• Python/Pytest integration testing module for cloud agnostic autoscaling data paths  
 • Helm chart repo for kubernetes deployment of proprietary F5 hardware w/ Python End to End tests  
-• Moved multiple active Go/Python projects from GitLab to GitHub without release interruption for multiple teams  
+• Replicate & adapt CI/CD for multiple active Go/Python projects in support of GitLab to GitHub move  
 • Multiple small additions to API endpoints in Ruby/PHP (Recurly/SurveyGizmo)  
 • Contributed to SAML sign-on capability and PDF encryption in PHP application (SurveyGizmo)  
 
