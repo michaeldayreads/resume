@@ -32,15 +32,15 @@ Contribute to DevOps tooling, product and test code for kubernetes based, cloud 
 ### Recurly
 March 2016 to September 2016: **Solutions Engineer**  
 
-Solutions Engineering researches support and key account inquires, escalating issues to DevOps, changing code in the core application when applicable, coordinating with other core development product managers and teams as needed. Data imports, Ruby/Rails and MySQL scripts for import, export or to correct data is also common, as is acting an an engineering resource for Recurly's client developers seeking assistance with our many API libraries. 
+Worked to triage, resolve or escalate key account and support inquires. Data imports, corrections, analysis and exports using Ruby, Bash, SQL and Mongo DB. When scope was appropriate, worked on core application and API SDKs. Provided consultations and API examples to POC or accelerate API use for enterprise customers.
 
 ### SurveyGizmo  
 April 2015 to February 2016: **Web Developer**  
 
-The web marketing team maintains a highly modified WordPress install on multiple properties and runs regular experiments to improve engagement and conversion. Some projects integrate tightly with our application providing opportunities to work in that code base. We are a LAMP (PHP) shop. 
+Part of team that supported and evolved custom WordPress sites across multiple properties, including regular experiments to improve user engagement and conversion. Some projects integrated tightly with the core application providing opportunities to work in that code base. 
 
 August 2013 to April 2015: **Professional Services Engineer / Sales Engineer**  
-Develop custom applications and integrations to meet unique needs of enterprise clients. Several projects included extending our core applications Restful API or PHP based custom scripting language to create new functionality. Added core application features to attract and retain specific clients. 
+Developed custom applications, reports and integrations using core application's API and scripting for enterprise clients. Several projects included extending the API or scoped PHP based custom scripting language to make the project possible. Also worked on a few application features to attract and retain specific clients. 
 
 March 2012 to July 2013: **Technical Support Tier 2**  
 Offered advanced and escalated technical support to enterprise clients and assisted on-boarding with technical consultations to attract new accounts.
