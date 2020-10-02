@@ -25,9 +25,9 @@ My first program (BASIC, age 12) was a ‘security system’ written on a Commod
 ## Professional Experience
 
 ### F5 Networks
-September 2016 to present: **Software Engineer II**  (SE I until 2018)
+September 2016 to present: **Software Engineer III**
 
-Contribute to DevOps tooling, product and test code for kubernetes based, cloud agnostic, proxy, reverse proxy and API management solutions. Participant in F5 distributed Security team, assisting in threat assessments company wide. Previously contributed to open source projects for controllers to integrate F5 hardware and Virtual Editions into kubernetes, OpenShift and DCOS environments.
+Contribute to DevOps tooling, product and test code for kubernetes based, cloud agnostic, proxy, reverse proxy and API management solutions. Participant in F5 distributed Security team, assisting in threat assessments company wide. Previously contributed to open source projects for controllers to integrate F5 hardware and Virtual Editions into kubernetes, OpenShift and DCOS environments. _(Hired as SE I; SE II in Oct 2018, SE III in Oct 2020.)_
 
 ### Recurly
 March 2016 to September 2016: **Solutions Engineer**  
